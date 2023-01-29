@@ -15,3 +15,7 @@
 * THEN I can save my initials and score<br>
 
 ## results
+![](./Assets/images/screenshot1.png)
+![](./Assets/images/screenshot2.png)
+![](./Assets/images/screenshot3.png)
+![](./Assets/images/screenshot4.png)
