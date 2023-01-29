@@ -19,3 +19,6 @@
 ![](./Assets/images/screenshot2.png)
 ![](./Assets/images/screenshot3.png)
 ![](./Assets/images/screenshot4.png)
+
+## Github pages Link
+https://minthare.github.io/timmed-quiz/
